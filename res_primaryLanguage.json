@@ -1,0 +1,132 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Dhruv Bhatia. I'm working with newest technologies like React, NodeJS, Express and MongoDB. What you are seeing now is my portfolio website.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience and Education"
+      }
+    },
+    "projects": [
+      {
+        "title": "Flipkart Clone",
+        "startDate": "2021",
+        "description": "The most expanded application I had opportunity to work with. I've learned about many packages and React Redux. Application handles all e-commerce functionalities and allows place orders as well.",
+        "images": [
+          "images/portfolio/flipkart/p1.png",
+          "images/portfolio/flipkart/p2.png"
+        ],
+        "url": "https://flipkart-web-app.herokuapp.com/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJs"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          }
+        ]
+      },
+      {
+        "title": "Face Detection App",
+        "startDate": "2020",
+        "description": "I developed front-end implementation for app that detects face in images. This was also my first project in React framework. I've learned a lot!",
+        "images": [
+          "images/portfolio/face-detection/p1.png",
+          "images/portfolio/face-detection/p2.png",
+          "images/portfolio/face-detection/p3.png",
+          "images/portfolio/face-detection/p4.png"
+        ],
+        "url": "https://dhruv-face-detection-front-end.herokuapp.com/",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-postgresql-plain",
+            "name": "PostgreSQL"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJs"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Online File Explorer",
+        "startDate": "2019",
+        "description": "One of the first apps I made using Bootstrap and pure NodeJS. I have uploaded some demo files too.",
+        "images": [
+          "images/portfolio/file-explorer/p1.png",
+          "images/portfolio/file-explorer/p2.png"
+        ],
+        "url": "https://dhruv-file-explorer.herokuapp.com/",
+        "technologies": [
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJs"
+          },
+          {
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "tag8",
+        "title": "Full-Stack Developer Intern",
+        "years": "06.2021 - Present",
+        "mainTech": [
+          "React"
+        ],
+        "technologies": [
+          "Express",
+          "NodeJs",
+          "MongoDB",
+          "REST API",
+          "MySQL",
+          "JavaScript",
+          "Github",
+          "Bootstrap",
+          "Angular"
+        ]
+      },
+      {
+        "company": "Amity University, Noida",
+        "title": "B.Tech.",
+        "years": "08.2019 - 07.2023",
+        "mainTech": [
+          "CSE"
+        ],
+        "technologies": [
+          "Data Structures",
+          "Algorithms",
+          "Operating System",
+          "DBMS",
+          "C++"
+        ]
+      }
+    ]
+  }
